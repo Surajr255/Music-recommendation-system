@@ -1,2 +1,2 @@
 # Music-recommendation-system
-Using Spotify dataset building a music recommendation system
+Using the follwing dataset : https://www.kaggle.com/vatsalmavani/music-recommendation-system-using-spotify-dataset/data
